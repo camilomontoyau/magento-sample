@@ -2,5 +2,4 @@
 /downloader/pearlib/download/
 /downloader/.cache
 /downloader/cache.cfg
-/media/*
 /var/*
